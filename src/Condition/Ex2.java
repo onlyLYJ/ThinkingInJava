@@ -44,7 +44,6 @@ public class Ex2 {
 		int bound = 100;
 		verify25Numbers(rand,bound);
 		
-		
 	}
 
 }
