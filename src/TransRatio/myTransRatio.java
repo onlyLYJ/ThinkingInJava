@@ -45,7 +45,7 @@ public class myTransRatio implements InvocationHandler {
 				f = "Decimal";
 		}
 		System.out.println( f + " version of " + n + t + " is " + n1 );
-		return null;
+		return Integer.parseInt(n1);
 	}
 	
 	
