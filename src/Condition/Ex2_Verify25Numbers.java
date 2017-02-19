@@ -7,7 +7,7 @@ import static util.Print.*;
 use an if-else statement to classify it as greater than, less than, or equal to a second
 randomly generated value.*/
 
-public class Ex2 {
+public class Ex2_Verify25Numbers {
 	
 	public static void verify25Numbers(Random rand,int bound) {
 		int first = rand.nextInt(bound);

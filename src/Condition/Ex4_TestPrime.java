@@ -1,11 +1,12 @@
 package Condition;
 import static util.Print.*;
 
+
 /*Exercise 4: (3) Write a program that uses two nested for loops and the modulus
 operator (%) to detect and print prime numbers (integral numbers that are not evenly
 divisible by any other numbers except for themselves and 1).*/
 
-public class Ex4 {
+public class Ex4_TestPrime {
 	
 	
 	

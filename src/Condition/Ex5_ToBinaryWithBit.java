@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 /*Exercise 5: (4) Repeat Exercise 10 from the previous chapter, using the ternary operator
 and a bitwise test to display the ones and zeroes, instead of Integer.toBinaryString( ).*/
 
-public class Ex5 extends TestCase{
+public class Ex5_ToBinaryWithBit extends TestCase{
 	
 	
 	private static String DecimalToBinary(int a) {

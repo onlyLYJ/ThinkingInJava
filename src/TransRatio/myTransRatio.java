@@ -1,7 +1,6 @@
 package TransRatio;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
-import java.util.Scanner;
 
 public class myTransRatio implements InvocationHandler {
 
