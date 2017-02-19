@@ -36,10 +36,6 @@ public class myTransRatio implements InvocationHandler {
 				n1 = Integer.toHexString(num);
 				f = "Hex";
 				break;
-			case 8:
-				n1 = Integer.toOctalString(num);
-				f = "Octal";
-				break;
 			case 2:
 				n1 = Integer.toBinaryString(num);
 				f = "Binary";
