@@ -57,7 +57,7 @@ public class Ex9_Fib {
 
 	public static void main(String args[]) {
 		
-		print(Fibonacci(11));
+		print(Fibonacci(5));
 		
 		
 	}
