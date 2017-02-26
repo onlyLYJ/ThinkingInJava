@@ -9,7 +9,7 @@ public class Apply {
 		println(p.process(o));
 	}
 	
-	static String bString = "DOG IDE 98";
+	static String bString = "DOG IDE 981";
 	
 	public static void main(String args[]) {
 		Apply.process(new SwapAdaptor(new SwapCharactor()), bString);
