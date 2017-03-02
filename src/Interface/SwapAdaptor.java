@@ -12,8 +12,8 @@ public class SwapAdaptor implements Processor {
 		return swapCharactor.getClass().getSimpleName();
 	}
 
-	public Object process(Object input) {
-		return swapCharactor.process((String)input);
+	public String process(Object input) {
+		return swapCharactor.swap((String)input);
 	}
 
 

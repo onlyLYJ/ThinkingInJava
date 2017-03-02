@@ -3,7 +3,7 @@ package Interface;
 public class SwapCharactor {
 
 	
-	String process(String input) {
+	String swap(String input) {
 		
 		int len = input.length();
 		String out = "";
