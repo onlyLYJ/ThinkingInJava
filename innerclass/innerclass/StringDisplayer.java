@@ -37,6 +37,10 @@ public class StringDisplayer {
 			System.out.println(str);
 		}
 		
+		void  reverseSelector() {
+			
+		}
+		
 	}
 	
 	public static void main(String args[]) {
@@ -49,7 +53,7 @@ public class StringDisplayer {
 		s.add(b);
 		s.add(c);
 		s.display();
-		sd.display();
+
 	}
 	
 	
